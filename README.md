@@ -21,6 +21,8 @@ CJORI: The most retarded RPG there is. A mod of OMORI.
 
 ![alt text](https://i.imgur.com/eVdL66p.png)
 
+![alt text](https://i.imgur.com/FhycBcH.png)
+
 ## INSTRUCTIONS
 
 Just install the game on the right side of the screen at "Releases". 
