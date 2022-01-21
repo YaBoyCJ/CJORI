@@ -32,4 +32,4 @@ Get the zip, extract it, boom, play.
 
 ## PATCHNOTES
 
-None yet...
+Game isnt even released yet lmao
