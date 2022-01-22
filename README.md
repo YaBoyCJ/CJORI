@@ -1,6 +1,8 @@
 # CJORI
 CJORI: The most retarded RPG there is. A mod of OMORI.
 
+RELEASE DATE TRAILER: https://www.youtube.com/watch?v=8yfy5DKS6tY
+
 - A Complete new story including us
 
 - New Bosses, Skills, Worlds, Etc
